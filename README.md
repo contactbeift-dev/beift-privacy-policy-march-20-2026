@@ -70,6 +70,3 @@ We use industry-standard encryption (HTTPS) and Firebase Security Rules to prote
 For data requests or privacy concerns, contact:
 
 Email: [contact.beift@gmail.com]
-
-
-In-App Link: Update the "Privacy Policy" button in your React Native app settings to open this URL
