@@ -71,9 +71,5 @@ For data requests or privacy concerns, contact:
 
 Email: [contact.beift@gmail.com]
 
-🚀 Final Deployment Steps:
-Update GitHub: Replace the text in your PRIVACY_POLICY.md with the version above.
-
-Play Store Link: In the Google Play Console, use the link to this file as your official Privacy URL.
 
 In-App Link: Update the "Privacy Policy" button in your React Native app settings to open this URL
